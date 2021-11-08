@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @edoardoperon
+- 👀 I’m interested in business data
+- 🌱 I’m currently learning SQL
+- 📫 How to reach me on Linkedin: www.linkedin.com/in/edoardoperon
